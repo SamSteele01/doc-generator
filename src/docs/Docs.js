@@ -1,5 +1,5 @@
-import react from 'react';
-import navigation from './Navigation';
+import React from 'react';
+import Navigation from './Navigation';
 import ComponentPage from './ComponentPage';
 import componentData from '../../config/componentData';
 
