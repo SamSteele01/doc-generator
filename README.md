@@ -4,7 +4,7 @@ A library of React components started with the "Creating Reuseble React Componen
 
 ## Install
 ```
-npm install components-react-SamSteele01
+npm install components-react-samsteele
 ```
 
 # Docs
